@@ -1,30 +1,32 @@
 # Rename
-##### by Adam Titus
+##### by Emily Jimenez
 
 ### Description
 
+Simple node JS template for building projects
 
-### Installation Instructions
+## Setup/Installation Requirements
 * Clone to desktop
-* Open it with text Editor
+* Open with text Editor
+* Open terminal
 * type npm install and wait for it to complete
 * type bower install and wait for it to complete
 * type gulp serve
 
-### Technology Needed
-* Node.js
-* Bower
-* Code Text Editor
-* Working browser with internet connection
+## Technologies Used
 
-### Known Bugs
+* HTML
+* CSS
+* JavaScript
+  * JQuery
+  * Node.js
+    * Gulp
+    * Bower
+    * Babel
+* Google Chrome
 
+## License
 
-### Contact Me
-You can reach me at adamtitus76@gmail.com or connect with me on [linkedin](www.linkedin.com/in/adam-titus-06740b149).
-#### Legal
-This is licensed under the MIT license
+Free under the MIT License
 
-Copyright (c) 2017 Adam Titus All Rights Reserved.
-
-_If you find a way to monetize this please contact the author_
+_Copyright (c) 2018 Emily Wells Jiménez (EWJ Consulting)_
